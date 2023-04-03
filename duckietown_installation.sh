@@ -25,5 +25,6 @@ sudo apt-get install docker-compose
 pip3 install --no-cache-dir --user -U duckietown-shell
 echo 'PATH=$PATH:'$HOME'/.local/bin' >> ~/.bashrc
 source ~/.bashrc
+bash
 which dts
 dts --set-version daffy
