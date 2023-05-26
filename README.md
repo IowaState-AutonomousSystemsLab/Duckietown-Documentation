@@ -5,3 +5,5 @@
 * now run the post_installation script to set chnages and final installation of duckietown.
 * now use dts commands to see how dts works.
 * **NOTE: Do 'chmod +x duckietown_installation' before running the script (./duckietown_installation)**
+
+* For ros_installation, run the script once, after its done executing, type 'bash' to open a new instance of the shell and run the script once more. This will source ros in bashrc. After this type, 'rosdep update' to finish setting up ROS.
