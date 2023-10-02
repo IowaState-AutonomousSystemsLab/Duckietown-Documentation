@@ -1,5 +1,9 @@
 # Duckietown-Documentation
 
+## Documentation
+Click on the Wiki on the top bar of this repo on github.com. That will take you to a bunch of Markdown files to help you get setup with Duckietown and introduce to ROS and OpenCV basics.
+________________________________________________________________________________________________
+
 ## Installing all requirements
 
 * use ./duckietown_installation to install all required dts libraries
@@ -12,5 +16,3 @@
 
 ____________________________________________________________________________________
 
-## Documentation
-Click on the Wiki on thetop bar of this repo on github.com. That will take you to a bunch of Markdown files to help you get setup with Duckietown and introduce to ROS and OpenCV basics.
